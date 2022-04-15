@@ -2,4 +2,4 @@
 
 
 ### Homework 1
-[Here] (https://bu-ie-360.github.io/spring22-cemsolatay/blob/gh-pages/homeworks/HW1/HW1.html) is my HW1.
+[Here](https://bu-ie-360.github.io/spring22-cemsolatay/blob/gh-pages/homeworks/HW1.html) is my HW1.
